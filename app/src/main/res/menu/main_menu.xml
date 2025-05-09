@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_export"
+        android:title="Export History"
+        android:icon="@android:drawable/ic_menu_save"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/action_clear_history"
+        android:title="Clear History"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/action_view_exported_file"
+        android:title="View Exported File"
+        android:icon="@android:drawable/checkbox_on_background"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/action_help"
+        android:title="Help"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:showAsAction="never"/>
+</menu>
